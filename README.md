@@ -3,7 +3,7 @@ Very easy (but not very secure) pki configuration for openvpn
 
 Usage:
 
-Edit client_base.conf and server.conf to your liking.
+Edit client_base.conf and server.conf to your liking (specifically replace mydomain.com with your domain).
 
 ./server.sh 
 
