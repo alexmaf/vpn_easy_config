@@ -3,6 +3,8 @@ Very easy (but not very secure) pki configuration for openvpn
 
 Usage:
 
+Edit client_base.conf and server.conf to your liking.
+
 ./server.sh 
 
 ./client.sh client_1
